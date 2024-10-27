@@ -18,7 +18,7 @@ Welcome to a collection of entertaining Python games built using the `PySimpleGU
 
 ## ⚙️ Installation Guide
 
-### Windows Users 🪟
+### Windows Users :file_folder:
 1. **Python & Pip Setup**
    ```bash
    # Verify installations
@@ -106,7 +106,8 @@ Found a bug? Please open an issue with:
 - Steps to reproduce
 
 ## 📫 Contact & Support
-- GitHub: [@inodbandara-official](https://github.com/inodbandara-official)
+- [:octocat:](https://github.com/inodbandara-official)
+- [:mailbox_with_mail:](in.banu.ban@gmail.com)
 
 ## ⭐ Show Your Support
 If you find these games helpful or fun, please consider:
@@ -115,7 +116,7 @@ If you find these games helpful or fun, please consider:
 - Contributing to the project
 
 ## 📜 License
-MIT License
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ---
 Made with ❤️ by Inod Bandara
