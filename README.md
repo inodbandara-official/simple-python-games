@@ -4,6 +4,7 @@ Welcome to a collection of entertaining Python games built using the `PySimpleGU
 ## 🎯 Games Available
 - 🎲 Number Guessing Game
 - 🎲 Minesweeper Game
+- 🎲 2048 Game
 
 ## 🌟 Features
 - Clean and intuitive graphical user interfaces
